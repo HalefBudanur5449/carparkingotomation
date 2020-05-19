@@ -2,4 +2,4 @@
 Fü Algoritma Dersi Ödevi
 
 
-![Screenshot](fff.png)
+![Screenshot](ffff.png)
